@@ -115,19 +115,15 @@
 <li>渐变：分为linear-gradient：线性渐变和radial-gradient：径向渐变</li>
 <li>变形：transform：变形，包括旋转(rotate)、缩放(scale)、移动(translate)、倾斜(skew)等。</li>
 <li>过渡：transition主要是对样式的过渡效果，过渡效果可以设置时间，过渡效果可以设置属性，过渡效果可以设置动画效果。</li>
-<li>动画</li>
-<li>滤镜</li>
-<li>多媒体</li>
-<li>媒体查询</li>
-<li>变量</li>
-<li>伪类</li>
-<li>伪元素</li>
-<li>盒模型</li>
-<li>弹性布局</li>
-<li>网格布局</li>
-<li>栅格布局</li>
-<li>浮动布局</li>
-<li>定位布局</li>
+<li>动画：animation</li>
+<li>盒子阴影：box-shadow：10px(水平阴影位置x) 10px(垂直阴影位置y) 5px(模糊距离) 5px(阴影大小) #888888(阴影颜色);</li>
+<li>媒体查询：@media (all(用于所有多媒体类型设备)、print(用于打印机)、screen(用于电脑屏幕，平板，智能手机等)、speech(用于屏幕阅读器))</li>
+<li>伪类:hover、active、focus、link链接没有被访问过、visited链接被访问过</li>
+<li>伪元素::before、::after</li>
+<li>盒模型：标准盒模型(width(content) + padding + border + margin)和怪异盒模型(width(content + padding + border) + margin)</li>
+<li>弹性布局：flex(flex-grow、flex-shrink、flex-basis、flex-direction、flex-wrap、justify-content、align-items、align-content)</li>
+<li>网格布局：grid(grid-template-columns用于指定列的宽度、grid-template-rows用于指定行的高度、grid-template-areas、grid-template、grid-column-start、grid-column-end、grid-column定义网格元素列的开始和结束的位置、grid-row-start、grid-row-end、grid-row定义网格元素行的开始和结束位置、grid-area、grid-column-gap、grid-row-gap、grid-gap、justify-items、align-items、justify-content分配网格行轴的元素之间及其周围的空间、align-content分配网格列轴的元素之间及其周围的空间)</li>
+<li>边框：border-radius：圆角、border-image：图片边框</li>
 </ol>
 </div></template>
 
