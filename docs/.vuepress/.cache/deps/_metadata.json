@@ -1,40 +1,40 @@
 {
-  "hash": "72d8b32e",
-  "configHash": "f24af3ac",
-  "lockfileHash": "747c2403",
-  "browserHash": "5585fb94",
+  "hash": "8e054dc5",
+  "configHash": "72496bc4",
+  "lockfileHash": "acb2e1f2",
+  "browserHash": "66cb833c",
   "optimized": {
     "@vue/devtools-api": {
-      "src": "../../../../node_modules/.pnpm/registry.npmmirror.com+@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/index.js",
+      "src": "../../../../node_modules/@vue/devtools-api/lib/esm/index.js",
       "file": "@vue_devtools-api.js",
-      "fileHash": "531fb178",
+      "fileHash": "d0af410f",
       "needsInterop": false
     },
     "@vuepress/shared": {
-      "src": "../../../../node_modules/.pnpm/registry.npmmirror.com+@vuepress+shared@2.0.0-rc.14/node_modules/@vuepress/shared/dist/index.js",
+      "src": "../../../../node_modules/@vuepress/shared/dist/index.js",
       "file": "@vuepress_shared.js",
-      "fileHash": "a156f331",
+      "fileHash": "106d6834",
       "needsInterop": false
     },
     "vue": {
-      "src": "../../../../node_modules/.pnpm/registry.npmmirror.com+vue@3.4.31/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "894766e9",
+      "fileHash": "b2360036",
       "needsInterop": false
     },
     "vue-router": {
-      "src": "../../../../node_modules/.pnpm/registry.npmmirror.com+vue-router@4.4.0_vue@3.4.31/node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "src": "../../../../node_modules/vue-router/dist/vue-router.esm-bundler.js",
       "file": "vue-router.js",
-      "fileHash": "1a2d0a74",
+      "fileHash": "ea4441c1",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-ZJ4E5RKS": {
-      "file": "chunk-ZJ4E5RKS.js"
+    "chunk-3FHVK7Z5": {
+      "file": "chunk-3FHVK7Z5.js"
     },
-    "chunk-C6JUNDCU": {
-      "file": "chunk-C6JUNDCU.js"
+    "chunk-UKCZNIRO": {
+      "file": "chunk-UKCZNIRO.js"
     }
   }
 }
