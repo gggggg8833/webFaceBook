@@ -1,5 +1,4 @@
-<template><div><h2 id="这是一份适合前端小白参考的面试题" tabindex="-1"><a class="header-anchor" href="#这是一份适合前端小白参考的面试题"><span>这是一份适合前端小白参考的面试题</span></a></h2>
-<p>线上地址:</p>
+<template><div><p>This is the content of home page. Check <a href="https://vuejs.press/reference/default-theme/frontmatter.html#home-page" target="_blank" rel="noopener noreferrer">Home Page Docs</a> for more details.</p>
 </div></template>
 
 
