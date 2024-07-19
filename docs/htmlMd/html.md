@@ -146,3 +146,50 @@ HTML相关的面试题
     3. SVG 是可伸缩的
     4. SVG 图像可在任何的分辨率下被高质量地打印
     5. SVG 可在图像质量不下降的情况下被放大
+
+## 2.HTML5 input元素type属性有哪些？
+1. text：文本输入框
+
+2. password：密码输入框
+
+3. radio：单选框
+
+4. checkbox：复选框
+
+5. submit：提交按钮
+
+6. reset：重置按钮
+
+7. button：按钮
+
+8. file：文件上传框
+
+9. hidden：隐藏域
+
+10. image：图片按钮
+
+11. color：颜色选择框
+
+12. date：日期选择框
+
+13. datetime：日期时间选择框
+
+14. datetime-local：本地日期时间选择框
+
+15. email：邮箱输入框
+
+16. month：月份选择框
+
+17. number：数字输入框
+
+18. range：范围选择框
+
+19. search：搜索框
+
+20. tel：电话号码输入框
+
+21. time：时间选择框
+
+22. url：网址输入框
+
+23. week：周选择框

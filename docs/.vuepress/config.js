@@ -9,7 +9,7 @@ export default defineUserConfig({
   description: '一个求职的前端小白总结的面试题',
 
   theme: defaultTheme({
-    navbar: ['/', '/htmlMd/html', '/cssMd/css'],
+    navbar: ['/', '/htmlMd/html', '/cssMd/css','/webMd/web'],
   }),
 
   bundler: viteBundler(),
